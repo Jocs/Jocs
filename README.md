@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Mark Text](https://github.com/marktext/marktext)
-- 🌱 I’m currently learning Go language
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on [Mark Text](https://github.com/marktext/marktext)
 - 📫 How to reach me: ransixi@gmail.com
