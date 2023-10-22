@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Mark Text](https://github.com/marktext/marktext)
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on [Mark Text](https://github.com/marktext/marktext)
+- 🔭 I’m currently working on [univer](https://github.com/dream-num/univer)
+- 🌱 I’m currently learning Canvas and WebGL
+- 👯 I’m looking to collaborate on [MarkText](https://github.com/marktext/marktext)
 - 📫 How to reach me: ransixi@gmail.com
