@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [univer](https://github.com/dream-num/univer)
-- 🌱 I’m currently learning Canvas and WebGL
+- 🌱 I’m currently learning Computer Graphics and Collaboration Algorithms
 - 👯 I’m looking to collaborate on [MarkText](https://github.com/marktext/marktext)
 - 📫 How to reach me: ransixi@gmail.com
