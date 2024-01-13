@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jocs.Jocs)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<p><em>Author and maintainer of <a href="https://github.com/marktext/marktext">MarkText</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Main developer at <a href="https://github.com/dream-num/univer">Univer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Author and maintainer of <a href="https://github.com/marktext/marktext">MarkText</a> and <a href="https://www.mindbox.cc">MindBox</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Main developer at <a href="https://github.com/dream-num/univer">Univer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <img align='right' src="https://opendoodles.s3-us-west-1.amazonaws.com/sitting-reading.svg" width="350">
