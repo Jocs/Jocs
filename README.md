@@ -3,19 +3,17 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jocs.Jocs)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<p><em>Author and maintainer of <a href="https://github.com/marktext/marktext">MarkText</a> and <a href="https://www.mindbox.cc">MindBox</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Main developer at <a href="https://github.com/dream-num/univer">Univer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>Author and maintainer of <a href="https://github.com/marktext/marktext">MarkText</a> and <a href="https://www.mindbox.cc">MindBox</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> and main developer at <a href="https://github.com/dream-num/univer">Univer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></br>Love markdown and play with rich-text editor, my latest <a href="https://www.jocs.cc/blog/">blogs</a> is here<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"></p>
 
 <img align='right' src="https://opendoodles.s3-us-west-1.amazonaws.com/sitting-reading.svg" width="350">
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```typescript
 
 class SoftwareEngineer {
     name = 'Jocs';
-    hobby = 'Write codes';
-    code = ['JavaScript', 'TypeScript', 'HTML', 'CSS'];
+    hobby = 'Markdown, Typesetting, Rich-Text Editor...';
+    code = ['JavaScript', 'TypeScript', 'Rust', 'HTML', 'CSS'];
     coding() {}
     writing() {}
     private reading() {}
