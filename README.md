@@ -20,6 +20,6 @@ class SoftwareEngineer {
 }
 ```
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, write an email to me!</b> :)</em>
+<em>I love connecting with different people so if you want to say hi, write an email to me! :)</em>
 
 <a href="mailto:ransixi@gmail.com">📨 ransixi@gmail.com</a>
