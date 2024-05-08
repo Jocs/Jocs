@@ -23,3 +23,9 @@ class SoftwareEngineer {
 <em>I love connecting with different people so if you want to say hi, write an email to me! :)</em>
 
 <a href="mailto:ransixi@gmail.com">📨 ransixi@gmail.com</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jocs/Jocs/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jocs/Jocs/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jocs/Jocs/output/snake.svg">
+</picture>
